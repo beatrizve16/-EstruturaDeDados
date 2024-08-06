@@ -37,7 +37,7 @@ struct no *ponteiro = cabeca; // cria a variavel ponteiro e aponta para a cabeca
 
 while (ponteiro != NULL){
 	printf("%d\n", ponteiro -> numero);
-	ponteiro = ponteiro -> proximo; // mudando o lugar da variaveÁ ponteiro apontando para o proximo do ponteiro 
+	ponteiro = ponteiro -> proximo; // mudando o lugar da variave√ß ponteiro apontando para o proximo do ponteiro 
 }
 	
 }
