@@ -9,7 +9,7 @@
 #include <string.h>
 
 // declaracao da estrutura do no
-
+//:)
 struct no
 {
   int numero;
